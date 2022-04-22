@@ -2,8 +2,7 @@
 
 ## 事件日志
 
-```json
-
+```text
 system:ExtrinsicSuccess
 [{"weight":"10,000","class":"Normal","paysFee":"Yes"}]
 poeModule:ClaimTransferred
